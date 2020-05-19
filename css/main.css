@@ -5,3 +5,7 @@ body {
   background-attachment: fixed;
   background-size: cover;
 }
+
+.row-main {
+  height: 100%;
+}
